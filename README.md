@@ -1,4 +1,4 @@
-# Sctipt Heaven
+# Script Heaven
 These are the scripts I've created specifically for work.
 
 ## Scripts
